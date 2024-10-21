@@ -6,4 +6,6 @@ main{
 header{
     color: #ffff;
     background-color: brown;
+    width: 500px;
+    height:200px;
 }
