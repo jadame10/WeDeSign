@@ -16,5 +16,5 @@ header{
     padding: 50px 5px;
 }
 .carousel-control-prev-icon{
-    background-color: black;
+    background-color: black !important;
 }
