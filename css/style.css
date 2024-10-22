@@ -15,3 +15,6 @@ header{
 #v-pills-tab{
     padding: 50px 5px;
 }
+.carousel-control-prev-icon{
+    background-color: black;
+}
