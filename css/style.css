@@ -4,5 +4,6 @@ header{
     max-height:520px;
 }
 .d-block{
-
+    width: 100%;
+    height: 500px;
 }
